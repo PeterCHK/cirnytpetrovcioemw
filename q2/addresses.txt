@@ -1,0 +1,257 @@
+{
+    "Addresses": [
+        {
+            "PublicIp": "13.228.132.237",
+            "PrivateIpAddress": "172.31.27.44",
+            "AssociationId": "eipassoc-043f0509a2332f3c3",
+            "NetworkInterfaceOwnerId": "565685306171",
+            "PublicIpv4Pool": "amazon",
+            "AllocationId": "eipalloc-0bf4377add26501ec",
+            "InstanceId": "i-0d1e00f511a3a78d5",
+            "NetworkBorderGroup": "ap-southeast-1",
+            "Domain": "vpc",
+            "NetworkInterfaceId": "eni-058e05907e2c3196c"
+        },
+        {
+            "PublicIp": "13.250.208.169",
+            "PrivateIpAddress": "172.31.1.63",
+            "AssociationId": "eipassoc-014fd122151970914",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "0005-nagios-kpex-asia"
+                }
+            ],
+            "NetworkInterfaceOwnerId": "565685306171",
+            "PublicIpv4Pool": "amazon",
+            "AllocationId": "eipalloc-0ef39b144252cd302",
+            "InstanceId": "i-03cfb2f8598997787",
+            "NetworkBorderGroup": "ap-southeast-1",
+            "Domain": "vpc",
+            "NetworkInterfaceId": "eni-0dd15e116429c8ce4"
+        },
+        {
+            "PublicIp": "18.138.115.1",
+            "PrivateIpAddress": "172.31.30.184",
+            "AssociationId": "eipassoc-0d4120954281b4f2d",
+            "NetworkInterfaceOwnerId": "565685306171",
+            "PublicIpv4Pool": "amazon",
+            "AllocationId": "eipalloc-06c53782101316799",
+            "InstanceId": "i-03692c885041441e9",
+            "NetworkBorderGroup": "ap-southeast-1",
+            "Domain": "vpc",
+            "NetworkInterfaceId": "eni-048c92c54d0115b0d"
+        },
+        {
+            "PublicIp": "18.138.19.111",
+            "PrivateIpAddress": "172.31.22.162",
+            "AssociationId": "eipassoc-03d375827e9697180",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "0083-dev03.kpex.asia"
+                }
+            ],
+            "NetworkInterfaceOwnerId": "565685306171",
+            "PublicIpv4Pool": "amazon",
+            "AllocationId": "eipalloc-0bfd3ed04a4463b39",
+            "InstanceId": "i-074266d75aea60243",
+            "NetworkBorderGroup": "ap-southeast-1",
+            "Domain": "vpc",
+            "NetworkInterfaceId": "eni-09630aec8242799eb"
+        },
+        {
+            "PublicIp": "18.139.173.71",
+            "PrivateIpAddress": "172.31.26.164",
+            "AssociationId": "eipassoc-0902e71bbdcbf0a71",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "0071-galera-test01-kpex-asia"
+                }
+            ],
+            "NetworkInterfaceOwnerId": "565685306171",
+            "PublicIpv4Pool": "amazon",
+            "AllocationId": "eipalloc-0c983c4c9b34eb6fc",
+            "InstanceId": "i-0560133dcec4d6513",
+            "NetworkBorderGroup": "ap-southeast-1",
+            "Domain": "vpc",
+            "NetworkInterfaceId": "eni-053eb87bfa21756ee"
+        },
+        {
+            "PublicIp": "18.139.30.183",
+            "PrivateIpAddress": "172.31.23.18",
+            "AssociationId": "eipassoc-06378560ba4b282cc",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "0098-jupyter-e.kpex.asia"
+                }
+            ],
+            "NetworkInterfaceOwnerId": "565685306171",
+            "PublicIpv4Pool": "amazon",
+            "AllocationId": "eipalloc-03bc1118b2e963ba2",
+            "InstanceId": "i-0d81cd7685be71e40",
+            "NetworkBorderGroup": "ap-southeast-1",
+            "Domain": "vpc",
+            "NetworkInterfaceId": "eni-02d650fa0a361e092"
+        },
+        {
+            "PublicIp": "18.139.5.220",
+            "PrivateIpAddress": "172.31.21.192",
+            "AssociationId": "eipassoc-0175503f5ff72f9d7",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "0082-dev02.kpex.asia"
+                }
+            ],
+            "NetworkInterfaceOwnerId": "565685306171",
+            "PublicIpv4Pool": "amazon",
+            "AllocationId": "eipalloc-08633ee394817c119",
+            "InstanceId": "i-07ba6072c0e77a84a",
+            "NetworkBorderGroup": "ap-southeast-1",
+            "Domain": "vpc",
+            "NetworkInterfaceId": "eni-048608194baf98018"
+        },
+        {
+            "PublicIp": "18.140.186.253",
+            "PrivateIpAddress": "172.31.22.139",
+            "AssociationId": "eipassoc-05ab2504f08d1c19b",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "0006-converter-prod01-kpex-asia"
+                }
+            ],
+            "NetworkInterfaceOwnerId": "565685306171",
+            "PublicIpv4Pool": "amazon",
+            "AllocationId": "eipalloc-0f485e2013f51d178",
+            "InstanceId": "i-0d0b2e168b34f6ba8",
+            "NetworkBorderGroup": "ap-southeast-1",
+            "Domain": "vpc",
+            "NetworkInterfaceId": "eni-0e7df0e3bb5b2dcb9"
+        },
+        {
+            "PublicIp": "3.0.140.157",
+            "PrivateIpAddress": "172.31.29.229",
+            "AssociationId": "eipassoc-06543f7edec3a3f47",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "0007-converter-prod02-kpex-asia"
+                }
+            ],
+            "NetworkInterfaceOwnerId": "565685306171",
+            "PublicIpv4Pool": "amazon",
+            "AllocationId": "eipalloc-01257f8f02e607c6c",
+            "InstanceId": "i-0b7587effde1f4fc2",
+            "NetworkBorderGroup": "ap-southeast-1",
+            "Domain": "vpc",
+            "NetworkInterfaceId": "eni-057a8e53c78bbc2a7"
+        },
+        {
+            "PublicIp": "3.0.241.87",
+            "PrivateIpAddress": "172.31.28.93",
+            "AssociationId": "eipassoc-0ec21a8e66cb6a2d9",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "0072-galera-test02-kpex-asia"
+                }
+            ],
+            "NetworkInterfaceOwnerId": "565685306171",
+            "PublicIpv4Pool": "amazon",
+            "AllocationId": "eipalloc-0d6912d6c73754fd3",
+            "InstanceId": "i-06c82bd87ce355f9d",
+            "NetworkBorderGroup": "ap-southeast-1",
+            "Domain": "vpc",
+            "NetworkInterfaceId": "eni-0490dd96e3eafe9b5"
+        },
+        {
+            "PublicIp": "3.0.82.246",
+            "PrivateIpAddress": "172.31.22.158",
+            "AssociationId": "eipassoc-0bd403862df716464",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "0073-galera-test03-kpex-asia"
+                }
+            ],
+            "NetworkInterfaceOwnerId": "565685306171",
+            "PublicIpv4Pool": "amazon",
+            "AllocationId": "eipalloc-02c076de1ba8de096",
+            "InstanceId": "i-0e5f1171573cd9cd6",
+            "NetworkBorderGroup": "ap-southeast-1",
+            "Domain": "vpc",
+            "NetworkInterfaceId": "eni-0b398df69e46f5e2a"
+        },
+        {
+            "PublicIp": "3.1.243.3",
+            "PrivateIpAddress": "172.31.18.77",
+            "AssociationId": "eipassoc-09ee33dba42ce6b2b",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "0003-kpex-gitlab-original.kpex.asia"
+                }
+            ],
+            "NetworkInterfaceOwnerId": "565685306171",
+            "PublicIpv4Pool": "amazon",
+            "AllocationId": "eipalloc-0ef35071f115a521e",
+            "InstanceId": "i-0649b243fbc466dac",
+            "NetworkBorderGroup": "ap-southeast-1",
+            "Domain": "vpc",
+            "NetworkInterfaceId": "eni-09ae5a425c785dce6"
+        },
+        {
+            "PublicIp": "52.220.150.232",
+            "PrivateIpAddress": "172.31.28.118",
+            "AssociationId": "eipassoc-09a61de5870b206ff",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "0004-deploy-kpex-asia"
+                }
+            ],
+            "NetworkInterfaceOwnerId": "565685306171",
+            "PublicIpv4Pool": "amazon",
+            "AllocationId": "eipalloc-0ecfcdc4d9b3bb029",
+            "InstanceId": "i-01f0004f9c5ce7330",
+            "NetworkBorderGroup": "ap-southeast-1",
+            "Domain": "vpc",
+            "NetworkInterfaceId": "eni-0f731149e03259223"
+        },
+        {
+            "PublicIp": "52.74.129.197",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "0007-converter-prod02-kpex-asia"
+                }
+            ],
+            "PublicIpv4Pool": "amazon",
+            "AllocationId": "eipalloc-07365b47f0007fca9",
+            "NetworkBorderGroup": "ap-southeast-1",
+            "Domain": "vpc"
+        },
+        {
+            "PublicIp": "52.74.213.107",
+            "PrivateIpAddress": "172.31.28.112",
+            "AssociationId": "eipassoc-02ed8b01413a57743",
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "0081-dev01.kpex.asia"
+                }
+            ],
+            "NetworkInterfaceOwnerId": "565685306171",
+            "PublicIpv4Pool": "amazon",
+            "AllocationId": "eipalloc-06d8eb5862033c487",
+            "InstanceId": "i-012e9a57425e8803c",
+            "NetworkBorderGroup": "ap-southeast-1",
+            "Domain": "vpc",
+            "NetworkInterfaceId": "eni-00ddf2faf6a662e81"
+        }
+    ]
+}
